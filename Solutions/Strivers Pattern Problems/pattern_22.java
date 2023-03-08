@@ -46,3 +46,6 @@ public class pattern_22
 		}
 	}
 }
+
+
+//Q22
